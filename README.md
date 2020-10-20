@@ -60,7 +60,7 @@ Ex.: PesquisaQaElements.js
 
 4. Após aberta a tela do *Cypress*, clica na *.feature* especifica do teste `PesquisaQA.feature`.
 
-5. Para visualizar o vídeo gerado, basta acessar o [link](https://github.com/naressi-luana/Avaliacao_viaVarejo/cypress/videos/PesquisaQA.feature.mp4)
+5. Para visualizar o vídeo gerado, basta acessar o [link](https://github.com/naressi-luana/Avaliacao_viaVarejo/tree/master/cypress/videos/PesquisaQA.feature.mp4)
 
 ## Etapas para criar um projeto com Cypress com Cucumber
 
