@@ -3,17 +3,25 @@
 Teste executado: 
 
 Funcionalidade: Pesquisa com o QA 
+
 Como um recrutador
+
 Quero colher dados da pesquisa 
+
 Para fazer análises mais detalhadas do QA
  
 Link: https://bit.ly/3jOMrR9
  
 Cenário: Preencher pesquisa com dados obrigatórios válidos
+
 Dado que eu acesse a página da VV Test
+
 E acesse o menu "Pesquisa - QA"
+
 Quando eu preencher todos os campos obrigatórios 
+
 Então deve ser direcionado para uma página de sucesso
+
 
 # Cypress
 
@@ -51,6 +59,8 @@ Ex.: PesquisaQaElements.js
 `npx cypress open`
 
 4. Após aberta a tela do *Cypress*, clica na *.feature* especifica do teste `PesquisaQA.feature`.
+
+5. Para visualizar o vídeo gerado, basta acessar o [link](https://github.com/naressi-luana/Avaliacao_viaVarejo/cypress/videos/PesquisaQA.feature.mp4)
 
 ## Etapas para criar um projeto com Cypress com Cucumber
 

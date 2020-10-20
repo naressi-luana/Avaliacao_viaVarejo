@@ -15,7 +15,6 @@ Exemplos:
 | "João" | "Silva"    | "joaosilva@email.com"    | "joaosilva@email.com"    | "31-49" | "mais de 5 anos" | "Desafio" | "negocio" | "Javascript, Python, Java, C++" |
 | "Jean" | "Custodio" | "jeancustodio@email.com" | "jeancustodio@email.com" | "31-49" | "mais de 5 anos" | "Desafio" | "negocio" | "Javascript, Python, Java, C++" |
 
-@focus
 Esquema do Cenário: Validar diferença de emails
 Dado que eu acesse a pagina da VV Test
 E acesse o menu "Pesquisa – QA"
