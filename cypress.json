@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://www.lourencodemonaco.com.br",
+    "defaultCommandTimeout": 25000,
+    "pageLoadTimeout": 35000
+}
